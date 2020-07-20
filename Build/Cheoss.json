@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "AI Toolbox",
-"productVersion": "0.1",
+"companyName": "WickedCube",
+"productName": "Cheoss",
+"productVersion": "1.1",
 "dataUrl": "Cheoss.data.unityweb",
 "wasmCodeUrl": "Cheoss.wasm.code.unityweb",
 "wasmFrameworkUrl": "Cheoss.wasm.framework.unityweb",
